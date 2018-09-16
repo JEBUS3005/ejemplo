@@ -19,6 +19,7 @@ public class Hola {
         for (int i = 0; i < 10; i++) {
             System.out.println("contador "+i);
             System.out.println("mamon");
+            System.out.println("enrique es gay");
         }
     }
     
