@@ -20,6 +20,7 @@ public class Hola {
             System.out.println("contador "+i);
             System.out.println("mamon");
             System.out.println("enrique es gay");
+            System.out.println("enrique es gay2");
         }
     }
     
