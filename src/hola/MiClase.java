@@ -20,6 +20,16 @@ public class MiClase {
         this.n = n;
     }
     
+    int n1;
+
+    public int getN1() {
+        return n;
+    }
+
+    public void setN1(int n) {
+        this.n = n;
+    }
+    
     
     
 }
